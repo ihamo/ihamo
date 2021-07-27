@@ -31,7 +31,7 @@ const amado = {
 ```
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihamo&repo=Workspace)](https://github.com/ihamo/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihamo&repo=Workspace&theme=<react>)](https://github.com/ihamo/github-readme-stats)
 
 
 <!-- Links to your social media accounts -->
