@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### juan.js
+### J0H4NO
 
 ```javascript
 const amado = {
