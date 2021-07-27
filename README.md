@@ -20,7 +20,7 @@ const J0H4NO = {
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "materialize"]
+            css: ["bootstrap", "materialize", "Tailwind"]
         },
         backEnd: {
             js: ["firebase", "node"]
