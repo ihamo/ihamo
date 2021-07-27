@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 ### J0H4NO
 
 ```javascript
-const amado = {
-    pronouns: "he" | "him",
+const J0H4NO = {
     code: [Javascript, HTML, CSS],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
