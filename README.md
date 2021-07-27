@@ -33,7 +33,4 @@ const J0H4NO = {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihamo&repo=Workspace&theme=graywhite)](https://github.com/ihamo/github-readme-stats)
 
 
-<!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
