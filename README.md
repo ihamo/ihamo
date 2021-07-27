@@ -31,3 +31,6 @@ const amado = {
 ```
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihamo)](https://github.com/ihamo/github-readme-stats)
+
+
