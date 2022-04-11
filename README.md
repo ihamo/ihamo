@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 const J0H4NO = {
     code: [Javascript, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
+    askMeAbout: ["web dev", "tech", "music", "coffee"],
     technologies: {
         frontEnd: {
             css: ["bootstrap", "materialize", "Tailwind"]
